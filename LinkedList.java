@@ -80,6 +80,15 @@ public class LinkedList
 		return current.cardLink;
 	}
 
+	//-------------------------------------------------------------
+	// Get the first link without removing it (for traversal)
+	// This method allows traversing the linked list without modifying it
+	// Useful for iterating through all cards in the list
+	public Link getFirstLink() {
+		return first;               // return reference to first link in list
+	}
+	//-------------------------------------------------------------
+
 }  // end class LinkList
 ////////////////////////////////////////////////////////////////
 /*class LinkedLists
