@@ -1,3 +1,7 @@
+// Jason Loa
+// 11/18/2025
+// Card class for playing card attributes
+
 //package cardGame;
 
 public class Card {

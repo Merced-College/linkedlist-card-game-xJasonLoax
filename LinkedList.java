@@ -1,10 +1,13 @@
+// Jason Loa
+// 11/18/2025
+// LinkedList class for managing a linked list of Card objects
 
-public class LinkList
+public class LinkedList
 {
 	private Link first;            // ref to first link on list
 
 	//-------------------------------------------------------------
-	public LinkList()              // constructor
+	public LinkedList()              // constructor
 	{
 		first = null;               // no links on list yet
 	}

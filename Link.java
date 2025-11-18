@@ -1,3 +1,7 @@
+// Jason Loa
+// 11/18/2025
+// Link class for linked list nodes
+
 //package linkedLists;
 //linkList2.java
 //demonstrates linked list

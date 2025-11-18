@@ -1,19 +1,23 @@
+// Jason Loa
+// 11/18/2025
+// CardGame class to read cards from a file and manage a linked list of Card objects
+
 //package linkedLists;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
+//import java.io.File;
+//import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 //import java.util.ArrayList;
 //import java.util.List;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 
 
 public class CardGame {
 	
-	private static LinkList cardList = new LinkList();  // make list
+	private static LinkedList cardList = new LinkedList();  // make list
 
 	public static void main(String[] args) {
 
