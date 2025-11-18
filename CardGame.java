@@ -1,4 +1,4 @@
-// Jason Loa
+// Jason Loa and Ruben Pulido
 // 11/18/2025
 // CardGame class to read cards from a file and manage a linked list of Card objects
 // Implements a Blackjack game
